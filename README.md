@@ -1,1 +1,1 @@
-# DEAP_and_AMIGOS_egg_predictions
+# DEAP_and_AMIGOS_eeg_predictions
